@@ -1,0 +1,22 @@
+/*contacto*/
+.conteinercontac{
+    display: grid;
+    text-align: center;
+    margin-top: 70px;
+    h4{
+        margin-top: 50px;
+        margin-bottom: 20px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    p{
+        font-size: 15px;
+        font-weight: bold;
+    }
+    #cordoba{
+        margin-bottom: 20px;
+    }
+    img{
+        height: 70%;
+    }
+}

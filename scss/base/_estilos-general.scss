@@ -1,0 +1,18 @@
+@import "components/variables";
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: $color-navegador;
+}
+body{
+    height: 100vh;
+    background-color: $color-fondo;
+}
+.navegador{
+    font-weight: bold;
+    color: black;
+}
+

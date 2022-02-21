@@ -1,0 +1,26 @@
+/*herrmientas electricas*/
+.herramientaselec{
+    display: grid;
+    h1{
+        text-align: center;
+        margin-top: 70px;
+    }
+    h4{
+        text-align: center;
+    }
+    p{
+        font-size: 13px;
+        font-weight: 100px;
+        margin: 30px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .conteinerh{
+        .conteinerh-img{
+        display: flex;
+        height: 200px;
+        object-fit: cover;
+        justify-content: center;}
+        margin-top: 60px;
+    }
+}

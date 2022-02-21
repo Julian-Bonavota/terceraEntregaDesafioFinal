@@ -1,0 +1,23 @@
+@import "components/mediaqueries.scss";
+.contenedorNosotros{
+    display: grid;
+    grid-template-areas:"main main" ;
+    justify-content: center;
+    min-height: calc(100vh - 50px);
+    main{
+        grid-area: main;
+        h1{
+            text-align: center;
+            margin: 70px;
+        }
+        .divMainNosotros{
+            margin: 10%;
+            display: flex;
+            align-items: center;
+            img{
+                margin-left: 30px;
+            }
+        }
+
+    }
+}

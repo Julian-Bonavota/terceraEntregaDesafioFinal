@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 800px) and (min-width:319px) {
+   .conteinercontac{
+    img{
+        height: 30%;
+       }
+   }
+   
+   .divMainNosotros{
+        flex-wrap: wrap;
+        img{ 
+            align-items: center;
+            justify-content: center;
+        }
+    }   
+}
